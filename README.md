@@ -1,8 +1,8 @@
-An h1 header, this is a change to the README file for the new-feature branch
+An h1 header  
 ============
 
 
-Paragraphs are separated by a blank line. 
+Paragraphs are separated by a blank line. this is a change to the README file for the new-feature branch
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
